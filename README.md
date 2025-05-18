@@ -10,5 +10,6 @@ This repo contains all the code needed to follow along with our **[YouTube Tutor
 
 [JWT.io](https://jwt.io/) will be used to decode JSON Web Tokens
 
-## Kubernetes Training
-If you find these tutorials helpful, check out our [Kubernetes Training course](https://kubernetestraining.io/)
+## Become a Cloud and DevOps Engineer
+
+Learn every tool that matters: https://rayanslim.com
